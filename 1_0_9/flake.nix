@@ -9,7 +9,7 @@
   
   inputs.src-sigv4-1_0_9.flake = false;
   inputs.src-sigv4-1_0_9.owner = "disruptek";
-  inputs.src-sigv4-1_0_9.ref   = "refs/tags/1.0.9";
+  inputs.src-sigv4-1_0_9.ref   = "1_0_9";
   inputs.src-sigv4-1_0_9.repo  = "sigv4";
   inputs.src-sigv4-1_0_9.type  = "github";
   
